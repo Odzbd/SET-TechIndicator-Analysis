@@ -24,7 +24,7 @@ This repository provides a simple tool (`SET_Analysis_Tool.ipynb`) for analyzing
 1.  **Clone:**
 
     ```bash
-    git clone [https://github.com/Odzbd/SET-TechIndicator-Analysis.git](https://github.com/Odzbd/SET-TechIndicator-Analysis.git)
+    git clone https://github.com/Odzbd/SET-TechIndicator-Analysis.git
     cd SET-TechIndicator-Analysis
     ```
 
